@@ -8,7 +8,9 @@ Best way to contact me is at gabelepoudre@gmail.com
 <br />
 [LinkedIn](    https://www.linkedin.com/in/gabriel-lepoudre-592333228/)
 
-<img src="https://c.tenor.com/HAnDm32K3L0AAAAj/alien.gif"/>
+<a href="https://www.youtube.com/watch?v=KpOtuoHL45Y">
+  <img src="https://c.tenor.com/HAnDm32K3L0AAAAj/alien.gif" />
+ </a>
 
 <!---
 gabelepoudre/gabelepoudre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
