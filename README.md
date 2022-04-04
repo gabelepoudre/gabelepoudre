@@ -1,7 +1,12 @@
-I'm Gabriel LePoudre
+# I'm Gabriel LePoudre
 
-Currently pursuing a Bachelor's degree in Computer Science at the University of Saskatchewan
-Best way to reach me is at gabelepoudre@gmail.com
+### Currently pursuing a Bachelor's degree in Computer Science at the University of Saskatchewan ###
+<br />
+
+Best way to contact me is at gabelepoudre@gmail.com
+<br />
+<br />
+[LinkedIn](    https://www.linkedin.com/in/gabriel-lepoudre-592333228/)
 
 <!---
 gabelepoudre/gabelepoudre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
