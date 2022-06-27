@@ -7,6 +7,7 @@ Best way to contact me is at gabelepoudre@gmail.com
 <br />
 <br />
 [LinkedIn](    https://www.linkedin.com/in/gabriel-lepoudre-592333228/)
+<br />
 
 <!---
 gabelepoudre/gabelepoudre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
