@@ -3,6 +3,8 @@
 ### Currently pursuing a Bachelor's degree in Computer Science at the University of Saskatchewan ###
 <br />
 
+## Working Casually at Dias Geophysical
+
 Best way to contact me is at gabelepoudre@gmail.com
 <br />
 <br />
