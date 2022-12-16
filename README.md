@@ -1,9 +1,10 @@
 # I'm Gabriel LePoudre #
 
 ### Currently pursuing a Bachelor's degree in Computer Science at the University of Saskatchewan ###
-<br />
 
-## Working Casually at Dias Geophysical
+#### Working Casually at Dias Geophysical
+
+<br />
 
 Best way to contact me is at gabelepoudre@gmail.com
 <br />
