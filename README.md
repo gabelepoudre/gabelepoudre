@@ -2,7 +2,7 @@
 
 ### Currently pursuing a Bachelor's degree in Computer Science at the University of Saskatchewan ###
 
-#### Working Casually at Dias Geophysical
+#### Working Casually at Dias Geophysical. Starting a Full Time position in May, 2023
 
 <br />
 
