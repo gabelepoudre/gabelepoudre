@@ -1,6 +1,6 @@
 # I'm Gabriel LePoudre #
 
-### Currently pursuing a Bachelor's degree in Computer Science at the University of Saskatchewan ###
+### Bachelor's degree in Computer Science at the University of Saskatchewan ###
 
 #### Working Full Time at Dias Geophysical.
 
